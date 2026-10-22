@@ -1,0 +1,7 @@
+Oct  5 10:00:01 server sshd[1234]: Accepted publickey for admin from 192.168.1.50 port 50123
+Oct  5 10:05:22 server sshd[1235]: Failed Password for root from 203.0.113.42 port 44221
+Oct  5 10:05:25 server sshd[1235]: Failed Password for root from 203.0.113.42 port 44235
+Oct  5 10:05:27 server sshd[1235]: Failed Password for root from 203.0.113.42 port 44240
+Oct  5 10:06:10 server sshd[1240]: Connection closed by 198.51.100.23 port 33210
+Oct  5 10:10:05 server sshd[1245]: Failed Password for admin from 10.0.0.15 port 55112
+Oct  5 10:15:22 server sshd[1250]: Failed Password for root from 203.0.113.42 port 44255

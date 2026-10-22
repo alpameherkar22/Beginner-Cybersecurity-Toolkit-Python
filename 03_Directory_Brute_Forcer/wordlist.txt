@@ -1,0 +1,9 @@
+admin
+login
+dashboard
+secret
+images
+uploads
+config.bak
+test
+api

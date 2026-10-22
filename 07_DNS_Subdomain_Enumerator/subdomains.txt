@@ -1,0 +1,10 @@
+www
+mail
+admin
+test
+api
+dev
+portal
+staging
+login
+secure
